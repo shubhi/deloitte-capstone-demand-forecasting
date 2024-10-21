@@ -1,3 +1,5 @@
+setuptools
+
 # Data manipulation and analysis
 pandas
 numpy
@@ -6,6 +8,7 @@ numpy
 matplotlib
 seaborn
 plotly
+qgrid
 
 # Machine learning
 scikit-learn
