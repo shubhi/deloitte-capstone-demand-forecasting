@@ -1,0 +1,16 @@
+# Data manipulation and analysis
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine learning
+scikit-learn
+statsmodels
+
+# Data preprocessing
+scipy
+category_encoders
