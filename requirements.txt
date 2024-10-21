@@ -1,0 +1,19 @@
+setuptools
+
+# Data manipulation and analysis
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+qgrid
+
+# Machine learning
+scikit-learn
+statsmodels
+
+# Data preprocessing
+scipy
+category_encoders
