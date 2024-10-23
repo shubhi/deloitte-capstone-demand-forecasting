@@ -14,9 +14,9 @@ This project, sponsored by **Deloitte Consulting**'s ConvergeCONSUMER Group, aim
     
 *   **Key Contacts:**
     
-    *   **Michael Brennen** (Product Manager) - mbrennen@deloitte.com
+    *   **Michael Brennen** (Product Manager)
         
-    *   **Sakshi Gupta** (Data Science Manager) - akshigupta43@deloitte.com
+    *   **Sakshi Gupta** (Data Science Manager)
         
 
 ### Student Team Members
