@@ -163,5 +163,7 @@ cython_debug/
 
 
 /dataset/processed/Processed_Capstone_Dataset_v1.0.csv
+/dataset/processed/Lag_Features_Dataset_104weeks.csv
+/dataset/processed/Lag_Features_Dataset_52weeks.csv
 
 dataset/raw/Capstone_Dataset_v1.0.csv
